@@ -1,5 +1,50 @@
 [
   {
+    "domain": "ablegirlplumbing.co.uk",
+    "title": "Able Girl Plumbing | Plumbers in Edinburgh & Midlothian",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 420,
+    "crawled_at": "2026-09-11T20:09:29.523898634Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "vsudekytky.cz",
+    "title": "Květinový ateliér | Všude kytky",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-09-11T19:13:35.912326101Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Instagram Follow Button",
+      "Netlify",
+      "Prismic",
+      "Styled Components",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "klarian.com",
     "title": "Klarian | Pipeline Intelligence for Performance and Risk | Klarian",
     "business_name": "",
@@ -13604,60 +13649,6 @@
       "Prismic",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "logile.com",
-    "title": "Logile | Run Great Stores With Confidence",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 48869,
-    "crawled_at": "2026-04-21T03:26:19.989831349Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apollo IO",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "CookieYes",
-      "DoubleClick Bid Manager",
-      "Facebook Reseller",
-      "Google",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "LinkedIn Pixel",
-      "Netlify",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "The Fresh",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "longevityicon.com",
-    "title": "Home • Longevity Icon",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15420,
-    "crawled_at": "2026-04-21T02:26:44.393588875Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Headless UI",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]

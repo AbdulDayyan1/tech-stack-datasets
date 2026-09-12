@@ -1,5 +1,43 @@
 [
   {
+    "domain": "nspehler.com",
+    "title": "About me | Nicolas Spehler",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 90,
+    "crawled_at": "2026-09-12T01:50:16.747736382Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "DatoCMS",
+      "GitHub Hosting",
+      "Plausible Analytics",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "eurolinksprojects.com",
+    "title": "Eurolinks Projects",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 67,
+    "tech_spend": 5128,
+    "crawled_at": "2026-09-11T21:57:01.132812108Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DatoCMS",
+      "Idaq",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "deopioidsettlementfunds.org",
     "title": "Delaware Opioid Settlement Commission",
     "business_name": "Delaware Opioid Settlement Commission",
@@ -13044,25 +13082,6 @@
     ]
   },
   {
-    "domain": "nicolasspehler.com",
-    "title": "About me | Nicolas Spehler",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 90,
-    "crawled_at": "2026-05-02T05:23:42.489193887Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "DatoCMS",
-      "GitHub Hosting",
-      "Next.js",
-      "Plausible Analytics",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
     "domain": "healthassured.com",
     "title": "HA | Wisdom Wellbeing Workplace Health & Wellbeing Provider",
     "business_name": "",
@@ -14201,32 +14220,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "bolttechinsurance.hk",
-    "title": "bolttech Insurance: Buy your general insurance online",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 53856,
-    "crawled_at": "2026-04-29T05:41:19.981870864Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Fireblade",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "K2F",
-      "LinkedIn Pixel",
-      "Netlify",
-      "OneTrust Domain Verification",
-      "UTF-8",
-      "Visual Website Optimizer",
-      "YouTube"
     ]
   }
 ]
