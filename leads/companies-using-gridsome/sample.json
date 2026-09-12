@@ -1,5 +1,28 @@
 [
   {
+    "domain": "shubhamzanwar.com",
+    "title": "Shubham Zanwar's Portfolio - Shubham Zanwar",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 72,
+    "tech_spend": 2440,
+    "crawled_at": "2026-09-12T00:47:48.270454972Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Medium",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "webdevio.us",
     "title": "Dylan Krepps | Web Developer",
     "business_name": "",
@@ -11987,31 +12010,6 @@
       "SMC",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "amxmln.com",
-    "title": "Portfolio | Amadeus Maximilian",
-    "business_name": "",
-    "country": "IRL",
-    "seo_score": 72,
-    "tech_spend": 60000,
-    "crawled_at": "2026-02-14T00:51:01.35447771Z",
-    "technologies": [
-      "AAPT",
-      "AWS WAF Challenge",
-      "DAV",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Gridsome",
-      "KVH",
-      "Mastodon",
-      "Subversion",
-      "Tailwind CSS",
-      "Telegram",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
