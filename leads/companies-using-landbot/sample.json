@@ -16202,42 +16202,5 @@
       "UTF-8",
       "Yet Another Related Posts Plugin"
     ]
-  },
-  {
-    "domain": "carephysicaltherapy.net",
-    "title": "Home |",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 1126,
-    "crawled_at": "2026-01-23T07:52:37.528605497Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "CDN JS",
-      "Clicky",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Gravity Forms",
-      "IcoMoon",
-      "Imgix",
-      "Instagram Follow Button",
-      "Kitco",
-      "LandBot",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "Yelp Badge",
-      "jQuery"
-    ]
   }
 ]
