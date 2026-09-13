@@ -1,5 +1,38 @@
 [
   {
+    "domain": "sierramanagementgroup.com",
+    "title": "SMG – Sierra Management Group",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 65,
+    "tech_spend": 22175,
+    "crawled_at": "2026-09-13T17:34:46.887690652Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Corporate Governance and Regulatory Compliance",
+      "EmbedPress",
+      "Font Awesome",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Ninja Forms",
+      "On The Map",
+      "PHP",
+      "Subversion",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "WP Google Maps",
+      "WordPress",
+      "WordPress Multisite",
+      "Wrike",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "njfoodcooperative.com",
     "title": "New Jersey Credit Unions Food Cooperative | First Harvest Credit Union",
     "business_name": "First Harvest Credit Union",
@@ -3323,39 +3356,6 @@
       "Yahoo Finance Widget",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "sierramanagementgroup.com",
-    "title": "SMG – Sierra Management Group",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 65,
-    "tech_spend": 22175,
-    "crawled_at": "2026-01-24T01:31:30.716961254Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Corporate Governance and Regulatory Compliance",
-      "EmbedPress",
-      "Font Awesome",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Ninja Forms",
-      "On The Map",
-      "PHP",
-      "Subversion",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WP Google Maps",
-      "WordPress",
-      "WordPress Multisite",
-      "Wrike",
-      "jQuery"
     ]
   }
 ]

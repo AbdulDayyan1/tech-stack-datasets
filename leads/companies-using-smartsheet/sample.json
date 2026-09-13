@@ -1,5 +1,33 @@
 [
   {
+    "domain": "atlasbook.co",
+    "title": "#1 Bookkeeping & Financial Services | Atlas Bookkeeping",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 17789,
+    "crawled_at": "2026-09-13T07:12:59.35026172Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "DAV",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Smartsheet",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "sfathsboa.org",
     "title": "Officials | SFA THSBOA | East Texas",
     "business_name": "",
@@ -17150,63 +17178,6 @@
       "UTF-8",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "atlasbook.co",
-    "title": "#1 Bookkeeping & Financial Services | Atlas Bookkeeping",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17789,
-    "crawled_at": "2026-01-23T18:34:43.451748724Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "DAV",
-      "EmbedPress",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Smartsheet",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress"
-    ]
-  },
-  {
-    "domain": "mycleardesign.com",
-    "title": "Home - Clear Design",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 3259,
-    "crawled_at": "2026-01-23T14:14:59.967208473Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Craft",
-      "Create React App",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Pleroma",
-      "QUIC",
-      "Smartsheet",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
