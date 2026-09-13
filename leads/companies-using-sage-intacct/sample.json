@@ -1,5 +1,52 @@
 [
   {
+    "domain": "sitenominal.com",
+    "title": "Nominal • Nominal | Agentic AI Platform That Runs Your Accounting",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 121366,
+    "crawled_at": "2026-09-13T06:45:55.704210578Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "K2F",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Netlify",
+      "No-Q",
+      "Oracle Cloud",
+      "QUIC",
+      "SMC",
+      "Sage Intacct",
+      "Sanity",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "grobizs.in",
+    "title": "KGC | Redefining Finance & Accounting Solutions",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 60,
+    "tech_spend": 10084,
+    "crawled_at": "2026-09-13T05:01:27.606480677Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "QUIC",
+      "Sage Intacct",
+      "Tailwind CSS",
+      "Thank You",
+      "Unsplash"
+    ]
+  },
+  {
     "domain": "hjalland.com",
     "title": "Hjalland | Technical delivery partner for automations, integrations and complicated technical work",
     "business_name": "",
@@ -37,34 +84,6 @@
       "commercetools",
       "jsDelivr",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "nominalteam.com",
-    "title": "Nominal • Nominal | Agentic AI Platform That Runs Your Accounting",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 121366,
-    "crawled_at": "2026-09-09T20:05:20.888072882Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "K2F",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Netlify",
-      "No-Q",
-      "Oracle Cloud",
-      "QUIC",
-      "SMC",
-      "Sage Intacct",
-      "Sanity",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -14679,26 +14698,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "grobizs.in",
-    "title": "KGC | Redefining Finance & Accounting Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 10084,
-    "crawled_at": "2026-01-23T17:25:43.433672543Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "LiteSpeed",
-      "QUIC",
-      "Sage Intacct",
-      "Tailwind CSS",
-      "Thank You",
-      "Unsplash"
     ]
   }
 ]
