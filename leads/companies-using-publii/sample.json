@@ -1,5 +1,28 @@
 [
   {
+    "domain": "70plus.it",
+    "title": "MyHome - 70plus - and still a lot to do",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 3749,
+    "crawled_at": "2026-09-12T14:02:59.773360536Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Azion",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Pixabay",
+      "Publii",
+      "Python",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "beatworx.eu",
     "title": "Home - Beatworx s.r.o.",
     "business_name": "Beatworx, s.r.o.",
@@ -8372,80 +8395,6 @@
       "Ubuntu",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "patcave.me",
-    "title": "The Patcave",
-    "business_name": "The Patcave",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 9989,
-    "crawled_at": "2026-01-23T16:58:43.44092722Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Link Enchancer",
-      "Amazon Widgets",
-      "Content Delivery Network",
-      "DC74",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "timschmoyer.com",
-    "title": "Tim Schmoyer, host of Elder My City",
-    "business_name": "Tim Schmoyer, host of Elder My City",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 188,
-    "crawled_at": "2026-01-23T11:31:43.447659928Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "70plus.it",
-    "title": "MyHome - 70plus - and still a lot to do",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3749,
-    "crawled_at": "2026-01-23T09:07:43.457113276Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Azion",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Pixabay",
-      "Publii",
-      "Python",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]
