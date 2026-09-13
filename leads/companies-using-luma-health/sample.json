@@ -1,5 +1,36 @@
 [
   {
+    "domain": "eyeconsultantsofmich.com",
+    "title": "Cataract & LASIK Experts in Warren & Farmington Hills | CECOM",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 26073,
+    "crawled_at": "2026-09-13T02:31:52.694914907Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Instagram Follow Button",
+      "Line2",
+      "Luma Health",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "parksidefamilymedicine.com",
     "title": "Parkside Family Medicine | Spartanburg & Greenville Primary Care",
     "business_name": "",
@@ -722,40 +753,6 @@
       "Jekyll",
       "Luma Health",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "eyeconsultantsofmich.com",
-    "title": "Cataract and Eye Consultants of Michigan",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 28513,
-    "crawled_at": "2026-01-23T16:01:43.465073478Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Line2",
-      "Luma Health",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
