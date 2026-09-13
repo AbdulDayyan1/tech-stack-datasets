@@ -1,5 +1,38 @@
 [
   {
+    "domain": "slatesalon.com",
+    "title": "Slate Salon and Spa",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 2399,
+    "crawled_at": "2026-09-13T17:25:09.327600547Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "BLR",
+      "Buffer",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "MaxCDN",
+      "PHP",
+      "Perl",
+      "Theme In WP",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "extendyourreach.com",
     "title": "Extend Your Reach | Proudly Serving the State of Michigan & Beyond",
     "business_name": "Extend Your Reach",
@@ -8216,39 +8249,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "slatesalon.com",
-    "title": "Slate Salon and Spa",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 2399,
-    "crawled_at": "2026-01-24T01:22:35.275665513Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "BLR",
-      "Buffer",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "MaxCDN",
-      "PHP",
-      "Perl",
-      "Theme In WP",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
