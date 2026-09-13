@@ -1,5 +1,37 @@
 [
   {
+    "domain": "ifactory.com.br",
+    "title": "Salesforce, Agentforce & Multi-Agent AI | OSF Digital",
+    "business_name": "OSF Digital",
+    "country": "CAN",
+    "seo_score": 87,
+    "tech_spend": 225159,
+    "crawled_at": "2026-09-13T03:50:59.960744944Z",
+    "technologies": [
+      "Amazon",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Contento",
+      "EcoVadis",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Marketo",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Next.js",
+      "Salesforce Hosted",
+      "Sitelinks Search Box",
+      "Social Intents",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "montva.com",
     "title": "Montgomery County, VA",
     "business_name": "",
@@ -186,37 +218,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "paladingroup.com",
-    "title": "Salesforce, Agentforce & Multi-Agent AI | OSF Digital",
-    "business_name": "OSF Digital",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 222759,
-    "crawled_at": "2026-09-09T20:20:04.835203222Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Contento",
-      "EcoVadis",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Marketo",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Next.js",
-      "Salesforce Hosted",
-      "Sitelinks Search Box",
-      "Social Intents",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
