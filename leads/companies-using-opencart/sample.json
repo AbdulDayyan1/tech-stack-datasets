@@ -1,5 +1,33 @@
 [
   {
+    "domain": "funlavie.com",
+    "title": "funlavie",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 38331,
+    "crawled_at": "2026-09-13T05:13:04.655653751Z",
+    "technologies": [
+      "3 Products",
+      "Alibaba Cloud Object Storage Service",
+      "Cart.com",
+      "Ethy",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "License Buttons",
+      "Nginx",
+      "OpenCart",
+      "QUIC",
+      "Slider Revolution",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "elmasflowershop.com",
     "title": "Elma's Flower Shop | Flowers Arrangement | Elegant Flowers | Flowers Free Delivery",
     "business_name": "",
@@ -12266,30 +12294,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "greatcreatio.com",
-    "title": "Great Creatio LP",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 87040,
-    "crawled_at": "2026-05-15T18:36:27.269790965Z",
-    "technologies": [
-      "Cart.com",
-      "Creatio CRM",
-      "Express",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "eLand"
     ]
   }
 ]

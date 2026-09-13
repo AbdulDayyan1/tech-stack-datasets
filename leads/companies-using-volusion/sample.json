@@ -1,5 +1,36 @@
 [
   {
+    "domain": "cchscissors.com",
+    "title": "CCH Scissors - High quality hair scissors at an affordable price. Created by a stylist for the stylist. Hairstylist / Barber / Hairdresser",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 2511,
+    "crawled_at": "2026-09-12T17:27:28.385185828Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "MailChimp",
+      "PayPal",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "Volusion",
+      "Volusion Live Chat"
+    ]
+  },
+  {
     "domain": "alekoproducts.ca",
     "title": "ALEKO Products | Online Mega Store | Home & Garden | Gates | Home Improvement | Outdoor Living | Pet Supplies & More",
     "business_name": "",
@@ -3454,38 +3485,6 @@
       "QUIC",
       "Thank You",
       "UTF-8",
-      "Volusion Live Chat"
-    ]
-  },
-  {
-    "domain": "cchscissors.com",
-    "title": "CCH Scissors - High quality hair scissors at an affordable price. Created by a stylist for the stylist. Hairstylist / Barber / Hairdresser",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 2311,
-    "crawled_at": "2026-01-23T11:10:57.483375973Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "ElementUI",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "MailChimp",
-      "PayPal",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "Volusion",
       "Volusion Live Chat"
     ]
   }
