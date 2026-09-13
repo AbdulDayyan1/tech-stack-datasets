@@ -1,5 +1,37 @@
 [
   {
+    "domain": "equilibriumcounselingservices.com",
+    "title": "Equilibrium Counseling Services – Moving Toward Balance",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 8994,
+    "crawled_at": "2026-09-12T19:37:18.263868328Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Automattic",
+      "BatCache",
+      "EmbedPress",
+      "Express",
+      "Fastly",
+      "Gutenberg",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "Oracle Cloud",
+      "Perl",
+      "TalentLMS",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "WordPress Stats",
+      "eLand"
+    ]
+  },
+  {
     "domain": "tfhcollege.com",
     "title": "TFH College",
     "business_name": "",
