@@ -1,5 +1,29 @@
 [
   {
+    "domain": "vehiclesell.co.uk",
+    "title": "Cars & Trucks – Sell your Vehicle online FREE",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 70,
+    "tech_spend": 2817,
+    "crawled_at": "2026-09-13T01:16:44.590453731Z",
+    "technologies": [
+      "Alternate Protocol",
+      "AutoTrader CA",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Jetpack",
+      "LiteSpeed",
+      "QUIC",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Stats"
+    ]
+  },
+  {
     "domain": "theradiantvoice.com",
     "title": "Jennifer Louise Mercer // Voiceover Talent",
     "business_name": "Jennifer Louise Mercer // The Radiant Voice",
@@ -2389,30 +2413,6 @@
       "StackPath",
       "Tailwind CSS",
       "Tawk"
-    ]
-  },
-  {
-    "domain": "vehiclesell.co.uk",
-    "title": "Cars & Trucks – Sell your Vehicle online FREE",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 65,
-    "tech_spend": 2817,
-    "crawled_at": "2026-01-23T15:28:43.467821457Z",
-    "technologies": [
-      "Alternate Protocol",
-      "AutoTrader CA",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Jetpack",
-      "LiteSpeed",
-      "QUIC",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Stats"
     ]
   }
 ]
