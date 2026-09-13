@@ -1,5 +1,31 @@
 [
   {
+    "domain": "xdworkplace.com",
+    "title": "Services IT & Solutions numériques – Qualité & expertise technique",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 80,
+    "tech_spend": 6948,
+    "crawled_at": "2026-09-13T06:58:10.036460803Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "Elementor",
+      "EmbedPress",
+      "Envoy",
+      "Google My Business",
+      "NFOrce Internet",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "Workplace from Meta",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "zabpresentations.com",
     "title": "Zabpresentation.com",
     "business_name": "zabpresentations",
@@ -8922,33 +8948,6 @@
       "iomart",
       "jQuery",
       "uPortal"
-    ]
-  },
-  {
-    "domain": "xdworkplace.com",
-    "title": "Services IT & Solutions numériques – Qualité & expertise technique",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 80,
-    "tech_spend": 6948,
-    "crawled_at": "2026-01-23T18:28:55.9563687Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Envoy",
-      "Google My Business",
-      "NFOrce Internet",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Workplace from Meta",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
