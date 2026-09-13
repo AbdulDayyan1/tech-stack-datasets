@@ -1,5 +1,168 @@
 [
   {
+    "domain": "vitesseventuresltd.com",
+    "title": "Vitesse Ventures | The Future of Global Trade",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 72,
+    "tech_spend": 1584,
+    "crawled_at": "2026-09-13T19:08:58.942559999Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ElementUI",
+      "Fontshare",
+      "GZIP Module",
+      "NFOrce Internet",
+      "Tailwind CSS",
+      "Unsplash",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "faceandcobelfast.com",
+    "title": "Face and Co Belfast | Advanced Aesthetics Clinic",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 720,
+    "crawled_at": "2026-09-13T19:00:39.935703225Z",
+    "technologies": [
+      "Book Direct",
+      "Cloudflare",
+      "Fast",
+      "Fontshare",
+      "Fresha",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "rayzs.my.id",
+    "title": "RAYZS // MAXIMALIST PORTFOLIO",
+    "business_name": "",
+    "country": "IDN",
+    "seo_score": 77,
+    "tech_spend": 53040,
+    "crawled_at": "2026-09-13T17:06:33.8843402Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "CodeIgniter",
+      "Express",
+      "Fontshare",
+      "Fortinet",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PHP",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "Vignette OpenText"
+    ]
+  },
+  {
+    "domain": "honeycombvisuals.com",
+    "title": "Honey Comb Visuals LLC - Immersive Projection Mapping",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2440,
+    "crawled_at": "2026-09-13T17:06:33.854592433Z",
+    "technologies": [
+      "Fontshare",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Pico CSS"
+    ]
+  },
+  {
+    "domain": "brandingbachelors.in",
+    "title": "Digital Marketing Agency in Chennai | Branding Bachelors",
+    "business_name": "Branding Bachelors",
+    "country": "IND",
+    "seo_score": 87,
+    "tech_spend": 16000,
+    "crawled_at": "2026-09-13T10:38:59.102372157Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "DAV",
+      "Fontshare",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Next.js",
+      "PWA",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "jia.fyi",
+    "title": "Jia Gu, design dude",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 860,
+    "crawled_at": "2026-09-13T04:49:51.220461241Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Digital Ocean Spaces",
+      "Fontshare",
+      "GZIP Module",
+      "Heroku",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "frost-design.be",
+    "title": "Planetary Pixel - Designing tomorrow, pixel by pixel",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 144,
+    "crawled_at": "2026-09-13T02:31:52.741755178Z",
+    "technologies": [
+      "Apache",
+      "Fontshare",
+      "GZIP Module",
+      "Parallels Plesk Panel",
+      "Perl",
+      "QUIC"
+    ]
+  },
+  {
     "domain": "jcellc.net",
     "title": "Local Residential & Home Electrical Repairs, Installation & Services Contractor, Residential & Home Electrician Montgomery, Prattville & Wetumpka AL - JC Electric LLC - JC Electric LLC",
     "business_name": "JC Electric",
@@ -13189,144 +13352,6 @@
       "Web3Forms",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "gregdocherty.com",
-    "title": "Greg Docherty — Product Design Portfolio",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-05-19T11:14:19.977604489Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fontshare",
-      "GitHub Hosting",
-      "Next.js",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "caloriegenius.io",
-    "title": "CalorieGenius | Free Calorie Nutrition Calculators",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 240,
-    "crawled_at": "2026-05-19T09:26:19.989686978Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fontshare",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pexels",
-      "Pleroma",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "aafsenergy.com",
-    "title": "AAFS Infrastructure & Energy",
-    "business_name": "AAFS Infrastructure & Energy LLC",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-05-19T08:59:19.988433096Z",
-    "technologies": [
-      "Fontshare",
-      "Microdata for Google Shopping",
-      "Pico CSS"
-    ]
-  },
-  {
-    "domain": "meerdangelukkig.nl",
-    "title": "Meer dan gelukkig - Willem Mulder",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 77,
-    "tech_spend": 570,
-    "crawled_at": "2026-05-19T07:41:20.001484968Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fontshare",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Headless UI",
-      "Next.js",
-      "No-Q",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "substationhq.com",
-    "title": "Substation",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 69,
-    "crawled_at": "2026-05-19T04:47:09.250462084Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Fontshare",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ebukahills.com",
-    "title": "Ebuka Ugwu — Engineering Leader",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 62,
-    "tech_spend": 228,
-    "crawled_at": "2026-05-19T03:56:19.99443476Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fontshare",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Netlify",
-      "QUIC",
-      "UTF-8",
-      "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "sheisnotspecial.com",
-    "title": "The Toxic Bible | SheIsNotSpecial",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 203,
-    "crawled_at": "2026-05-19T03:29:19.993785049Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Fontshare",
-      "Gambling Content",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "QUIC"
     ]
   }
 ]
