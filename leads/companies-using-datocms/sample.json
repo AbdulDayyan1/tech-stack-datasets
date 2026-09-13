@@ -1,5 +1,27 @@
 [
   {
+    "domain": "geonliving.com",
+    "title": "Shaping Extraordinary | Geon",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 67,
+    "tech_spend": 2856,
+    "crawled_at": "2026-09-13T07:58:59.575268369Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DatoCMS",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "nspehler.com",
     "title": "About me | Nicolas Spehler",
     "business_name": "",
@@ -6076,28 +6098,6 @@
       "Plausible Analytics",
       "Tailwind CSS",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "geonproperty.com",
-    "title": "Shaping Extraordinary | Geon",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 82,
-    "tech_spend": 2856,
-    "crawled_at": "2026-05-26T12:01:23.519740822Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
-      "shadcn ui"
     ]
   },
   {

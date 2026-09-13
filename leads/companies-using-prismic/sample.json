@@ -1,5 +1,24 @@
 [
   {
+    "domain": "skacaniwe.com",
+    "title": "Professional Welding and Engineering Services | SkacanIWE",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-09-13T12:03:18.612090607Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ablegirlplumbing.co.uk",
     "title": "Able Girl Plumbing | Plumbers in Edinburgh & Midlothian",
     "business_name": "",
@@ -13626,29 +13645,6 @@
       "Vector Internet Services",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "cardgains.co.uk",
-    "title": "Welcome to Cardgains",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 657,
-    "crawled_at": "2026-04-21T06:59:19.998481165Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Formspree",
-      "Google Analytics",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Netlify",
-      "Nuxt.js",
-      "Prismic",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
