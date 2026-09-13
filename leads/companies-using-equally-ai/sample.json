@@ -1,5 +1,36 @@
 [
   {
+    "domain": "smashmedicine.dev",
+    "title": "SmashMedicine",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 70,
+    "tech_spend": 57613,
+    "crawled_at": "2026-09-12T20:12:37.195839633Z",
+    "technologies": [
+      "Amazon",
+      "Amazon S3 CDN",
+      "AudioEye",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Equally AI",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Nginx",
+      "QUIC",
+      "SMC",
+      "Storyblocks",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "accessiBe",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "eyedoctor-stlouis.com",
     "title": "Ophthalmologist in Chesterfield MO | Chesterfield MO Ophthalmology Office | Eye Doctor in Chesterfield MO",
     "business_name": "Glaucoma Consultants of St. Louis",
@@ -1917,37 +1948,6 @@
       "YouTube",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "smashmedicine.com",
-    "title": "SmashMedicine",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 60,
-    "tech_spend": 16871,
-    "crawled_at": "2026-05-27T04:51:35.63545588Z",
-    "technologies": [
-      "Amazon",
-      "Amazon S3 CDN",
-      "AudioEye",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Equally AI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Nginx",
-      "QUIC",
-      "SMC",
-      "Storyblocks",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "accessiBe",
-      "jQuery"
     ]
   },
   {
