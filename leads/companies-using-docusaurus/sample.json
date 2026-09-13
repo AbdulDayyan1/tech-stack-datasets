@@ -1,5 +1,46 @@
 [
   {
+    "domain": "timbrook.tech",
+    "title": "7imbrook",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 600,
+    "crawled_at": "2026-09-13T00:20:53.818045115Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sshockwave.net",
+    "title": "Home | sshockwave",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": "",
+    "crawled_at": "2026-09-12T23:12:00.643612234Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Docusaurus",
+      "Duoban",
+      "GitHub Hosting",
+      "KaTeX",
+      "Perl",
+      "Python",
+      "UTF-8",
+      "Visual Studio",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "wheretolearnicelandic.org",
     "title": "Where to learn Icelandic",
     "business_name": "",
@@ -12755,66 +12796,6 @@
       "Python",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "getstack.dev",
-    "title": "getStack - Technology Trends",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 5413,
-    "crawled_at": "2026-04-03T07:29:20.005192875Z",
-    "technologies": [
-      "AI Log",
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Docusaurus",
-      "Express",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LaunchDarkly",
-      "Netlify",
-      "Nginx",
-      "Plausible Analytics",
-      "Python",
-      "Radix UI",
-      "Salesforce Hosted",
-      "Svelte",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "VitePress",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "vzhuck.com",
-    "title": "Valentine Zhuck | Valentine Zhuck",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 7400,
-    "crawled_at": "2026-04-02T21:08:19.992009145Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "KaTeX",
-      "Perl",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "jsDelivr"
     ]
   }
 ]

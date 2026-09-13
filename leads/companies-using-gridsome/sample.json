@@ -1,5 +1,22 @@
 [
   {
+    "domain": "thesojournerproject.org",
+    "title": "The Sojourner Project - The Sojourner Project",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-09-12T22:58:05.638397737Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "shubhamzanwar.com",
     "title": "Shubham Zanwar's Portfolio - Shubham Zanwar",
     "business_name": "",
@@ -11989,27 +12006,6 @@
       "Gridsome",
       "WordPress",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "longjourney.digital",
-    "title": "Home - Long Journey Digital",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 80,
-    "tech_spend": 52649,
-    "crawled_at": "2026-02-14T23:13:04.307138395Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Financial Services Guide",
-      "Formspree",
-      "Gridsome",
-      "Hexo",
-      "Instagram Follow Button",
-      "SMC",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
