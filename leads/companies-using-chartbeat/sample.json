@@ -19476,32 +19476,5 @@
       "Zen Cart",
       "eLand"
     ]
-  },
-  {
-    "domain": "heresparkslope.com",
-    "title": "HOME - Here's Park Slope.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 136000,
-    "crawled_at": "2026-01-23T12:49:43.434344335Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Akamai",
-      "Automattic",
-      "Chartbeat",
-      "DAV",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Google Cloud DNS",
-      "IcoMoon",
-      "Line2",
-      "LiteSpeed",
-      "LocalYokelMedia",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8"
-    ]
   }
 ]
